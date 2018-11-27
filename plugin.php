@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: Hexaweb Custom Registration
+  Plugin Name: Custom Registration
   Description: Custom code plugin by Hexaweb System
   Version: 1.0
  */
